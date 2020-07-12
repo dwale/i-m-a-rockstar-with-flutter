@@ -9,7 +9,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.white,
         appBar: AppBar(
-          title: Text('I\'m a rockstar'),
+          title: Text('I\'m a rockstar 🤘'),
           backgroundColor: Colors.blueGrey[900],
           centerTitle: true,
         ),
